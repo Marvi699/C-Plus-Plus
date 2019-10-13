@@ -6,7 +6,7 @@ This repository contains some useful algorithms and data structures.
 
 How you can contribute? See this small guide.
 
-* Use the directory structure of the repository.
+1. Use the directory structure of the repository.
 * Please describe your pull requests. 
 * Don't use **bits/stdc++.h** because this is quite Linux specific and slows down the compiler process.
 * Put comments in your code.
